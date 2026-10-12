@@ -4,4 +4,4 @@ albo Bartłomiej
 więcej wariacji chyba nie ma
 
 ##Hobby
-gra na gitaże
+gra na gitarze
