@@ -21,6 +21,6 @@ Dominik
 
 
 \## Ulubione technologie
-
+react
 
 
