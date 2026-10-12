@@ -19,6 +19,6 @@ Nazwa zespołu: ???
 
 
 \## Ulubione technologie
-
+react
 
 
