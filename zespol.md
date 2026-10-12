@@ -27,5 +27,5 @@ react
 
 \## Hobby
 
-Programowanie
+Programowanie.
 
