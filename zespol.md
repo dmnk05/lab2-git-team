@@ -2,7 +2,7 @@
 
 
 
-Nazwa zespołu: teamMD
+Nazwa zespołu: Metallica
 
 
 
