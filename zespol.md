@@ -1,4 +1,5 @@
-\# To jest zespol
+\# To jest zespół nagłówkowy
+
 
 
 
