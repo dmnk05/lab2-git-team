@@ -3,3 +3,6 @@
 czegoś
 czegoś 2
 czegoś 3
+
+Uwaga od DOMINIK: używaj liczb do oznaczania podpunktów
+
