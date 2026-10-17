@@ -2,3 +2,4 @@
 2. GIT
 3. Github
 
+Uwaga od Bartka: zawartość nagłówka w punkcie, nie nagłówku
