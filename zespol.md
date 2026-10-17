@@ -16,7 +16,9 @@ Dominik
 
 
 
-it do be like that sometimes
+HEAD
+it do be like that sometimes, carpe diem.
+feature/DOMINIK-motto
 
 
 
