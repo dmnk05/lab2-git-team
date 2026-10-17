@@ -1,4 +1,4 @@
-\# Zespół
+\# To jest zespol
 
 
 
