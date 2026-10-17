@@ -2,7 +2,7 @@
 
 
 
-Nazwa zespołu: ???
+Nazwa zespołu: teamMD
 
 
 
