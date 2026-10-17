@@ -2,7 +2,7 @@
 
 
 
-Nazwa zespołu: Metallica
+Nazwa zespołu: ???
 
 
 
