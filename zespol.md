@@ -1,4 +1,5 @@
-\# Zespół nagłówkowy
+\# To jest zespół nagłówkowy
+
 
 
 
@@ -16,7 +17,9 @@ Dominik
 
 
 
-it do be like that sometimes
+HEAD
+it do be like that sometimes, carpe diem.
+feature/DOMINIK-motto
 
 
 
