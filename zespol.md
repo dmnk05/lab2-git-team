@@ -1,4 +1,4 @@
-\# Zespół
+\# Zespół nagłówkowy
 
 
 
