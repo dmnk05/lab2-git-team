@@ -1,0 +1,1 @@
+\# czego chcę się nauczyć na tym przedmiocie
